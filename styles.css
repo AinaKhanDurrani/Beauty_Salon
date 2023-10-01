@@ -133,9 +133,17 @@ main {
     background-color: #DB9B20;
     height: 50px;
     border: 1px solid #DB9B20;
-    border-radius: 7px;
+    border-radius: 17px;
     margin: 15px 0;
     width: 200px;
+}
+
+.btn > button:hover{
+    color: #fff;
+    background-color: #DB9B20;
+    border: 2px solid #fff;
+   
+   
 }
 
 .model_img {
